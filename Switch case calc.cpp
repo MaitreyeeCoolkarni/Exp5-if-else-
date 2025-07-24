@@ -27,5 +27,5 @@ int main(){
         case 'D':
         cout<<(a*b);
         break;
-        
+     }
     }
