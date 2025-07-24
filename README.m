@@ -1,9 +1,9 @@
 # Exp5-if-else-
-Aim-To learn about switch case and if else conditions
+##Aim-To learn about switch case and if else conditions
 
-Tools-VS Code / Programiz
+##Tools-VS Code / Programiz
 
-Algorithm:
+##Algorithm:
 
 Program 1: Even or Odd Number Checker
 Start: Begin program execution.
@@ -66,7 +66,7 @@ Input will be taken from the user and the case which matches will be used
    - Case 'D': Output a * b, break
 5. End
 
-THEORY:
+##THEORY:
 SWITCH CASE:The switch-case construct is a control flow statement used in many programming languages (like C, C++, Java, etc.) to execute one of several possible blocks of code based on the value of an expression. It provides a cleaner and more efficient alternative to multiple if-else statements when comparing a single variable against multiple possible values.
 
 switch (expression) {
@@ -92,5 +92,5 @@ if (condition) {
     // Code to execute if all conditions are false
 }
 
-CONCLUSION:We learn how to handle multiple cases using if else as well as switch
+##CONCLUSION:We learn how to handle multiple cases using if else as well as switch
 
