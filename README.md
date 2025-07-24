@@ -26,6 +26,14 @@ This program checks whether the entered character is a vowel or a consonant. It 
 
 Program 3: Finding the Largest of Three Numbers
 This program compares three numbers and determines the largest one using nested if statements. It performs sequential comparisons between all three inputs to identify the maximum.
+1. Input three integers (num1, num2, num3)
+2. If num1 is greater than num2 and num1 is greater than num3:
+   - Output "num1 is bigger"
+3. Else if num2 is greater than num3 and num2 is greater than num1:
+   - Output "num2 is bigger"
+4. Else:
+   - Output "num3 is bigger"
+5. End
 
 
 
@@ -57,4 +65,32 @@ Input will be taken from the user and the case which matches will be used
    - Case 'C': Output a / b, break
    - Case 'D': Output a * b, break
 5. End
+
+THEORY:
+SWITCH CASE:The switch-case construct is a control flow statement used in many programming languages (like C, C++, Java, etc.) to execute one of several possible blocks of code based on the value of an expression. It provides a cleaner and more efficient alternative to multiple if-else statements when comparing a single variable against multiple possible values.
+
+switch (expression) {
+    case value1:
+        // Code to execute if expression equals value1
+        break;
+    case value2:
+        // Code to execute if expression equals value2
+        break;
+    ...
+    default:
+        // Code to execute if expression doesn't match any case
+}
+
+IF ELSE:
+The if-else construct is a fundamental control flow statement used in programming languages (like C, C++, Java, Python, etc.) to make decisions based on conditions. It allows the program to execute specific blocks of code depending on whether a given condition evaluates to true or false.
+
+if (condition) {
+    // Code to execute if condition is true
+} else if (another_condition) {
+    // Code to execute if another_condition is true
+} else {
+    // Code to execute if all conditions are false
+}
+
+CONCLUSION:We learn how to handle multiple cases using if else as well as switch
 
