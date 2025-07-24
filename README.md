@@ -1,9 +1,19 @@
 # Exp5-if-else-
+Aim-To learn about switch case and if else conditions
+
+Tools-VS Code / Programiz
+
+Algorithm:
+
 Program 1: Even or Odd Number Checker
-This program determines whether a given integer is even or odd using the modulus operator (%). If the number is divisible by 2 (num % 2 == 0), it is even; otherwise, it is odd. The logic is implemented using a basic if-else conditional block.
+Start: Begin program execution.
+Declare Variable: Create an integer variable num to store the user’s input.
+Prompt User: Display the message "Enter a integer to check for even or odd" to request input.
+Read Input: Accept an integer from the user and store it in num.
 
 Program 2: Vowel or Consonant Checker
 This program checks whether the entered character is a vowel or a consonant. It compares the character against both uppercase and lowercase vowels (A, E, I, O, U, a, e, i, o, u) using logical OR (||) operators. Any other alphabetic character is considered a consonant.
+
 
 Program 3: Finding the Largest of Three Numbers
 This program compares three numbers and determines the largest one using nested if statements. It performs sequential comparisons between all three inputs to identify the maximum.
