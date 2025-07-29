@@ -1,9 +1,9 @@
 # Exp5-if-else-
-##Aim-To learn about switch case and if else conditions
+## Aim-To learn about switch case and if else conditions
 
 ##Tools-VS Code / Programiz
 
-##Algorithm:
+## Algorithm:
 
 Program 1: Even or Odd Number Checker
 Start: Begin program execution.
